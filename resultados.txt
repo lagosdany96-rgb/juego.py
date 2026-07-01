@@ -1,2 +1,12 @@
 daniela : 1
 maria: 2
+carmelota: 2
+carmelota: 10
+almendra: 10
+mentirosa: 0
+ruperta: 10
+rupertina: 0
+cappucina: 4
+carmeloita: 10
+vicente: 4
+jsjsjjs: 4
